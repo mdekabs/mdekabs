@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-I am an emerging Backend Specialist, a master craftsman of code, and a guardian of the server-side realm. With expertise in backend technologies,
+I am an emerging Backend Specialist, a master craftsman of code, and a guardian of the server-side realm. With focus in backend technologies,
 I bring life to applications, enabling them to thrive in a dynamic and data-driven world. 
 My passion lies in designing efficient and secure APIs, building powerful databases, and orchestrating complex systems.
 
