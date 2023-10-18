@@ -4,7 +4,7 @@
 
 Imagine a zoologist setting sail into the digital frontier, turning into a software engineer. That is me—Mawoda—a fusion of
 scientific curiosity and digital innovation. I did not just adapt; I thrived. Leading a cross-functional team, we orchestrated the
-delivery of a ground-breaking menstrual cycle tracking service(https://bit.ly/Ovidot) that not only spiked interest by 20% within its first 3 months but
+delivery of a ground-breaking menstrual cycle tracking backend service(https://bit.ly/Ovidot) that not only spiked interest by 20% within its first 3 months but
 also testified to my seamless transition into the tech realm. Adaptability? Check. Quick learner? Double-check. Curiosity that
 sparks innovation? Triple-check. With my unique background and unwavering commitment to excellence, I am nothing but a
 force to recon with.
